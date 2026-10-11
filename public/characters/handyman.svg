@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 300" fill="none">
+ <ellipse cx="128" cy="283" rx="67" ry="8" fill="#17232B" opacity=".10"/>
+ <path d="M84 193h90l-7 73h-31l-8-51-8 51H88l-4-73Z" fill="#343F49"/><path d="m89 262 26 1 2 16H82c-5 0-6-4-3-7l10-10Zm49 1 26-1 9 10c3 4 1 7-4 7h-29l-2-16Z" fill="#222D36"/>
+ <path d="M85 121c12-13 27-20 43-20s31 7 43 20l14 72-22 15H93l-21-15 13-72Z" fill="#B96C49" stroke="#965037" stroke-width="2"/>
+ <path d="M100 123 128 143l28-20 11 68H89l11-68Z" fill="#D98D60"/><path d="M105 126 128 143l23-17" stroke="#F0BF87" stroke-width="6" stroke-linecap="round"/>
+ <path d="M88 132c-8 6-14 17-17 30l-7 24c-2 7 2 12 8 13 5 1 9-3 11-7l16-35-11-25Zm80 0c8 6 14 17 17 30l7 24c2 7-2 12-8 13-5 1-9-3-11-7l-16-35 11-25Z" fill="#C58D70"/>
+ <path d="M112 91h32v27c0 11-32 11-32 0V91Z" fill="#C58D70"/><path d="M85 54c0-28 18-43 43-43s43 15 43 43v29c0 28-21 45-43 45S85 111 85 83V54Z" fill="#D4A083"/>
+ <path d="M82 66c-8-28 3-51 24-59 15-6 37-2 49 7 15 12 20 30 15 51l-13-13-2-23c-13 14-42 20-69 18l-4 19Z" fill="#4A342D"/><path d="M90 51c10-9 16-13 25-17m10 0c13 1 25 8 34 16" stroke="#5E4034" stroke-width="4" stroke-linecap="round"/>
+ <path d="M104 72c5-4 11-4 16 0m18 0c5-4 11-4 16 0" stroke="#68483B" stroke-width="3" stroke-linecap="round"/><ellipse cx="113" cy="80" rx="3.5" ry="5" fill="#253039"/><ellipse cx="147" cy="80" rx="3.5" ry="5" fill="#253039"/><path d="M123 91c3 2 7 2 10 0" stroke="#B67B64" stroke-width="2.5" stroke-linecap="round"/><path d="M112 102c9 7 23 7 32 0" stroke="#914D49" stroke-width="3" stroke-linecap="round"/>
+ <!-- checked overshirt --> <path d="M99 123 117 142l-12 18 6 31H87l9-63 3-5Zm58 0-18 19 12 18-6 31h24l-9-63-3-5Z" fill="#3B625D"/>
+ <path d="M96 139h15m-17 12h13m-15 12h16m-15 12h16m32-36h15m-13 12h15m-15 12h14m-15 12h14" stroke="#D8B17B" stroke-width="3"/>
+ <path d="M112 144 128 157l16-13" stroke="#E9C18B" stroke-width="5" stroke-linecap="round"/><rect x="112" y="159" width="32" height="28" rx="4" fill="#A9603E"/><rect x="117" y="164" width="22" height="18" rx="2" fill="#C98B60"/>
+ <!-- hammer --> <path d="M181 151l9-10 10 9-9 10-10-9Z" fill="#AAB5B9" stroke="#637078" stroke-width="2"/><path d="M192 157 175 201l-8-3 17-45 8 4Z" fill="#B9814E" stroke="#86582F" stroke-width="2"/><path d="M168 193l10 4-2 7-11-4 3-7Z" fill="#9D693E"/>
+ <path d="M60 182c-5 0-8 5-7 10l3 8c2 5 7 6 11 3l7-8-4-11-10-2Z" fill="#E3BA68"/><path d="M184 182c5 0 8 5 7 10l-3 8c-2 5-7 6-11 3l-7-8 4-11 10-2Z" fill="#E3BA68"/>
+</svg>

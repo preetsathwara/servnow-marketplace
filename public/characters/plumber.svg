@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 300" fill="none">
+ <ellipse cx="128" cy="283" rx="68" ry="8" fill="#17232B" opacity=".10"/>
+ <!-- trousers --> <path d="M83 193h91l-8 77h-31l-8-53-8 53H87l-4-77Z" fill="#34434D"/>
+ <path d="m87 262 26 1 2 17H80c-4 0-6-3-4-7l11-11Zm50 1 26-1 9 11c3 4 0 7-4 7h-29l-2-17Z" fill="#25343E"/>
+ <!-- shirt --> <path d="M85 119c12-12 27-18 43-18s31 6 43 18l16 70-23 16H92l-17-16 10-70Z" fill="#277C78" stroke="#215F5D" stroke-width="2"/>
+ <path d="m107 111 21 24 21-24-8-11h-26l-8 11Z" fill="#E5B9A0"/>
+ <path d="M105 112 91 132l14 12 7-16m39-16 14 20-13 12-9-16" fill="#1F6865"/>
+ <!-- arms --> <path d="M87 127c-7 5-13 16-17 28l-10 28c-2 7 2 13 8 14 5 1 9-2 12-7l19-38-2-25Z" fill="#D29A7B"/>
+ <path d="M168 127c7 5 14 16 18 28l9 28c2 7-2 13-8 14-5 1-9-2-12-7l-19-38 2-25Z" fill="#D29A7B"/>
+ <!-- gloves --> <path d="M61 181c-6 0-10 5-9 11l3 9c2 5 8 7 12 3l7-8-4-12-9-3Zm124 0c6 0 10 5 9 11l-3 9c-2 5-8 7-12 3l-7-8 4-12 9-3Z" fill="#E7C35E"/>
+ <!-- neck and face --> <path d="M112 92h32v27c0 11-32 11-32 0V92Z" fill="#D8A486"/>
+ <path d="M85 55c0-29 18-43 43-43s43 14 43 43v29c0 29-21 45-43 45S85 113 85 84V55Z" fill="#E2B193"/>
+ <path d="M84 66c-8-25 0-47 20-56 14-6 36-3 46 3 18 9 25 29 21 49l-12-10-5-20c-18 14-41 19-67 18l-3 16Z" fill="#303840"/>
+ <path d="M84 58c-4-11-4-20 1-29 3 16 13 22 27 24l-28 5Z" fill="#20282F"/>
+ <path d="M105 72c5-4 11-4 16 0m18 0c5-4 11-4 16 0" stroke="#513A32" stroke-width="3" stroke-linecap="round"/>
+ <ellipse cx="113" cy="80" rx="3.5" ry="5" fill="#253039"/><ellipse cx="147" cy="80" rx="3.5" ry="5" fill="#253039"/>
+ <path d="M123 91c3 2 7 2 10 0" stroke="#B97862" stroke-width="2.5" stroke-linecap="round"/>
+ <path d="M112 102c9 7 23 7 32 0" stroke="#9D554E" stroke-width="3" stroke-linecap="round"/>
+ <!-- utility strap and bib --> <path d="m96 123 32 21 32-21 10 65H86l10-65Z" fill="#D58B3D" stroke="#AC692B" stroke-width="2"/>
+ <path d="M99 122 128 145l29-23" stroke="#F0B86B" stroke-width="7" stroke-linecap="round"/>
+ <rect x="112" y="156" width="32" height="25" rx="5" fill="#B97531"/><rect x="119" y="161" width="18" height="14" rx="3" fill="#E8B66A"/>
+ <!-- wrench --> <path d="M181 149c-7-11-5-24 5-31l7 12 8-5-7-13c13-3 25 6 26 19 1 9-4 17-12 21l-15 54-12-4 11-53-11 0Z" fill="#A9B5BA" stroke="#59676D" stroke-width="3" stroke-linejoin="round"/>
+ <!-- collar seams --> <path d="M110 123 96 137m50-14 14 14M95 190h66" stroke="#185A58" stroke-width="2"/>
+</svg>
