@@ -7,7 +7,7 @@ A responsive React + Vite home-service marketplace demo with an Apple-inspired t
 - npm
 
 ## Run locally
-1. Extract `servnow-india-payments.zip`.
+1. Extract `servnow Demo.zip`.
 2. Open the extracted `servnow-demo` folder in VS Code.
 3. Open a terminal in that folder.
 4. Run:
